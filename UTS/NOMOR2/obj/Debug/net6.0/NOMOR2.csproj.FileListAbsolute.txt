@@ -1,0 +1,15 @@
+C:\Users\ASUS TUF\OneDrive\Desktop\NOMOR2\bin\Debug\net6.0\NOMOR2.exe
+C:\Users\ASUS TUF\OneDrive\Desktop\NOMOR2\bin\Debug\net6.0\NOMOR2.deps.json
+C:\Users\ASUS TUF\OneDrive\Desktop\NOMOR2\bin\Debug\net6.0\NOMOR2.runtimeconfig.json
+C:\Users\ASUS TUF\OneDrive\Desktop\NOMOR2\bin\Debug\net6.0\NOMOR2.dll
+C:\Users\ASUS TUF\OneDrive\Desktop\NOMOR2\bin\Debug\net6.0\NOMOR2.pdb
+C:\Users\ASUS TUF\OneDrive\Desktop\NOMOR2\obj\Debug\net6.0\NOMOR2.csproj.AssemblyReference.cache
+C:\Users\ASUS TUF\OneDrive\Desktop\NOMOR2\obj\Debug\net6.0\NOMOR2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS TUF\OneDrive\Desktop\NOMOR2\obj\Debug\net6.0\NOMOR2.AssemblyInfoInputs.cache
+C:\Users\ASUS TUF\OneDrive\Desktop\NOMOR2\obj\Debug\net6.0\NOMOR2.AssemblyInfo.cs
+C:\Users\ASUS TUF\OneDrive\Desktop\NOMOR2\obj\Debug\net6.0\NOMOR2.csproj.CoreCompileInputs.cache
+C:\Users\ASUS TUF\OneDrive\Desktop\NOMOR2\obj\Debug\net6.0\NOMOR2.dll
+C:\Users\ASUS TUF\OneDrive\Desktop\NOMOR2\obj\Debug\net6.0\refint\NOMOR2.dll
+C:\Users\ASUS TUF\OneDrive\Desktop\NOMOR2\obj\Debug\net6.0\NOMOR2.pdb
+C:\Users\ASUS TUF\OneDrive\Desktop\NOMOR2\obj\Debug\net6.0\NOMOR2.genruntimeconfig.cache
+C:\Users\ASUS TUF\OneDrive\Desktop\NOMOR2\obj\Debug\net6.0\ref\NOMOR2.dll
